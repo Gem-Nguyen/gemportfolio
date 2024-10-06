@@ -11,4 +11,6 @@ background: linear-gradient(232deg, rgba(240,234,45,0.840795693277311) 0%, rgba(
 	-webkit-background-clip:text;
 	color: transparent;
 }
-
+.bg-black {
+	color: ##1C1C1C;
+}
